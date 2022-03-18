@@ -1,3 +1,4 @@
 2022/03/18
 
 # Just the beginning of Odin project!
+# Try to add commit message inside VSCode
